@@ -1,0 +1,59 @@
+        .logo {
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 48px;
+        /* or 160% */
+        letter-spacing: -0.02em;
+        color: #8A2BE2;
+        margin-top: 37%;
+        margin-left: 80 px;
+    }
+    
+    .logo-dot {
+        color: #0000FF
+    }
+    
+    .main title {
+        max-width: 495px;
+        width: 100%;
+        margin-top: 203;
+        margin-left: 200px;
+        font-family: 'Ramaja', serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 72px;
+        line-height: 76px;
+        /*106*/
+        letter-spacing: 0.02 em;
+        color: #180A42;
+    }
+    
+    .main-info {
+        max-width: 583;
+        width: 100px;
+        margin-top: 10px;
+        margin-left: 200;
+        font-family: ´Roberto', sans-serif;
+ font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 32px;
+        /* 160 /*
+    
+        letter-spacing: 0.02 em;
+        color: #9A9A9A;
+
+
+}
+
+.main-btn; {
+
+    with:154;
+    height: 64px;
+         background-color: #A3DC00;
+border-radius: 6px;
+
+
+}
